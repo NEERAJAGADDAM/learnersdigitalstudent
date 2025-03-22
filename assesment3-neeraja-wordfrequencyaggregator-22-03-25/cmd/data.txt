@@ -1,0 +1,4 @@
+Hello there! 
+This is Word frequency aggregator
+It reads the file and counts the no of words in the text file.
+and it prints the frequency of each word in the file.
